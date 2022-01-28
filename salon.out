@@ -1,0 +1,26 @@
+Enter number of customers: 9
+
+Enter name of the Stylist: DAVE
+
+Enter Name & arrival time (format :- hh:mm ) of customers: 
+Name         Arrival Time
+(1) JASON 10:23
+(2) SARAH 2:34
+(3) CYNTHIA 3:12
+(4) RAVI 4:45
+(5) CHEN 4:50
+(6) AMY 5:12
+(7) WENDY 6:10
+(8) BRIAN 7:45
+(9) MAC 9:50
+
+Order of haircuts based on loyalty points: 
+(1) RAVI 
+(2) WENDY 
+(3) SARAH 
+(4) CYNTHIA 
+(5) CHEN 
+(6) AMY 
+(7) BRIAN 
+(8) JASON 
+(9) MAC 
